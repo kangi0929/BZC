@@ -1,0 +1,25 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 201402L
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 6
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 3
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 0
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
+QMAKE_CXX.INCDIRS = \
+    /opt/aarch64-himix100-linux/aarch64-linux-gnu/include/c++/6.3.0 \
+    /opt/aarch64-himix100-linux/aarch64-linux-gnu/include/c++/6.3.0/aarch64-linux-gnu \
+    /opt/aarch64-himix100-linux/aarch64-linux-gnu/include/c++/6.3.0/backward \
+    /opt/aarch64-himix100-linux/lib/gcc/aarch64-linux-gnu/6.3.0/include \
+    /opt/aarch64-himix100-linux/lib/gcc/aarch64-linux-gnu/6.3.0/include-fixed \
+    /opt/aarch64-himix100-linux/aarch64-linux-gnu/include \
+    /opt/aarch64-himix100-linux/target/usr/include
+QMAKE_CXX.LIBDIRS = \
+    /opt/aarch64-himix100-linux/lib/gcc/aarch64-linux-gnu/6.3.0 \
+    /opt/aarch64-himix100-linux/lib/gcc/aarch64-linux-gnu \
+    /opt/aarch64-himix100-linux/lib/gcc \
+    /opt/aarch64-himix100-linux/aarch64-linux-gnu/lib64 \
+    /opt/aarch64-himix100-linux/aarch64-linux-gnu/lib \
+    /opt/aarch64-himix100-linux/target/lib \
+    /opt/aarch64-himix100-linux/target/usr/lib

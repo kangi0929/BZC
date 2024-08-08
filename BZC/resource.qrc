@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/btn_down_hover.png</file>
+        <file>resource/btn_down_press.png</file>
+        <file>resource/btn_left_hover.png</file>
+        <file>resource/btn_left_press.png</file>
+        <file>resource/btn_refresh_default.png</file>
+        <file>resource/btn_refresh_hover.png</file>
+        <file>resource/btn_refresh_pressed.png</file>
+        <file>resource/btn_right_hover.png</file>
+        <file>resource/btn_right_press.png</file>
+        <file>resource/btn_up_hover.png</file>
+        <file>resource/btn_up_press.png</file>
+        <file>resource/button-over.png</file>
+        <file>resource/button-press.png</file>
+        <file>resource/button1.png</file>
+        <file>resource/close_red.png</file>
+        <file>resource/green.png</file>
+        <file>resource/grey.png</file>
+        <file>resource/MessageBoxBackground.png</file>
+        <file>resource/MessageBoxBackgroundInner.png</file>
+        <file>resource/orange.png</file>
+        <file>resource/red.png</file>
+        <file>resource/round.png</file>
+        <file>resource/yuntai.png</file>
+        <file>resource/bk.jpg</file>
+    </qresource>
+</RCC>

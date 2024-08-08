@@ -1,0 +1,116 @@
+{
+	"id": "api/target/report",
+	"data": [{
+			"panorama_ip": "192.168.0.1",
+			"target_info": [{
+					"orientation": 180,
+					"area_id": 10,
+					"type": 1,
+					"target_id": 15,
+					"position": {
+						"order_no": 1,
+						"x_pos": 18,
+						"y_pos": 28,
+						"width:": 50,
+						"high": 60
+					}
+				},
+				{
+					"orientation": 110,
+					"area_id": 11,
+					"type": 2,
+					"target_id": 16,
+					"position": {
+						"order_no": 2,
+						"x_pos": 15,
+						"y_pos": 26,
+						"width:": 40,
+						"high": 75
+					}
+				},
+				{
+					"orientation": 111,
+					"area_id": 5,
+					"type": 2,
+					"target_id": 17,
+					"position": {
+						"order_no": 2,
+						"x_pos": 15,
+						"y_pos": 26,
+						"width:": 40,
+						"high": 75
+					}
+				},
+				{
+					"orientation": 115,
+					"area_id": 7,
+					"type": 4,
+					"target_id": 36,
+					"position": {
+						"order_no": 2,
+						"x_pos": 15,
+						"y_pos": 26,
+						"width:": 40,
+						"high": 75
+					}
+				},
+				{
+					"orientation": 110,
+					"area_id": 11,
+					"type": 2,
+					"target_id": 16,
+					"position": {
+						"order_no": 2,
+						"x_pos": 15,
+						"y_pos": 26,
+						"width:": 40,
+						"high": 75
+					}
+				},
+				{
+					"orientation": 110,
+					"area_id": 11,
+					"type": 2,
+					"target_id": 16,
+					"position": {
+						"order_no": 2,
+						"x_pos": 15,
+						"y_pos": 26,
+						"width:": 40,
+						"high": 75
+					}
+				}
+			]
+		},
+		{
+			"panorama_ip": "192.168.0.2",
+			"target_info": [{
+					"orientation": 270,
+					"area_id": 8,
+					"type": 3,
+					"target_id": 6,
+					"position": {
+						"order_no": 1,
+						"x_pos": 58,
+						"y_pos": 118,
+						"width:": 50,
+						"high": 60
+					}
+				},
+				{
+					"orientation": 100,
+					"area_id": 10,
+					"type": 1,
+					"target_id": 15,
+					"position": {
+						"order_no": 2,
+						"x_pos": 38,
+						"y_pos": 28,
+						"width:": 20,
+						"high": 70
+					}
+				}
+			]
+		}
+	]
+}
